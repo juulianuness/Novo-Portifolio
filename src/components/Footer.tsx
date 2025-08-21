@@ -12,7 +12,7 @@ const Footer = () => {
         <a href="https://github.com" target="_blank" rel="noreferrer">
           <FaGithub className="text-2xl hover:text-green-400 transition" />
         </a>
-        <a href="mailto:seuemail@email.com">
+        <a href="mailto:juuliacristiny@gmail.com">
           <FaEnvelope className="text-2xl hover:text-green-400 transition" />
         </a>
       </div>
