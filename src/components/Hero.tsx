@@ -21,8 +21,8 @@ const Hero = () => {
           Olá, eu sou <span className="text-blue-300">Julia Nunes</span>
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
-          Desenvolvedora Front-End apaixonada por criar experiências digitais
-          modernas, acessíveis e responsivas.
+          Desenvolvedora Front-End. <br />
+          Com experiência em desenvolvimento Fullstack pelo "Bootcamp React & Node" da SoulCode, onde Participei de projetos práticos e pude aplicar conceitos práticos da vivência de frontend e backend. Tenho facilidade em aprender novas ferramentas, boa comunicação e foco em entregar soluções funcionais.
         </p>
 
         {/* Skills */}
