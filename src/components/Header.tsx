@@ -34,7 +34,7 @@ const Header = () => {
             GitHub
           </a>
           <a 
-            href="#projects" 
+            href="https://julianunes.netlify.app/" 
             className="px-6 py-2 bg-gradient-to-r from-blue-300 to-gray-300 text-white font-semibold rounded-full shadow-md hover:scale-105 hover:shadow-lg transition"
           >
             Currículo
