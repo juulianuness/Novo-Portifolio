@@ -18,7 +18,7 @@ const Hero = () => {
       {/* Texto */}
       <div className="text-center md:text-left w-full md:w-1/2 ">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-          Olá, eu sou <span className="text-blue-300">Julia Nunes</span>
+          Olá, eu sou a <span className="text-blue-300">Julia Nunes</span>
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
           Desenvolvedora Front-End. <br />
