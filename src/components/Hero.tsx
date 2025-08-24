@@ -22,7 +22,7 @@ const Hero = () => {
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
           Desenvolvedora Front-End. <br />
-          Com experiência em desenvolvimento Fullstack pelo "Bootcamp React & Node" da SoulCode, onde Participei de projetos práticos e pude aplicar conceitos práticos da vivência de frontend e backend. Tenho facilidade em aprender novas ferramentas, boa comunicação e foco em entregar soluções funcionais.
+          Com experiência em desenvolvimento Fullstack pelo "Bootcamp React & Node" da <strong> SoulCode</strong>, onde Participei de projetos práticos e pude aplicar conceitos práticos da vivência de frontend e backend.
         </p>
 
         {/* Skills */}
