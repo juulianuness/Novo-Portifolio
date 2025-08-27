@@ -21,8 +21,8 @@ const Hero = () => {
           Olá, eu sou a <span className="text-blue-300">Julia Nunes</span>
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
-          Desenvolvedora Front-End. <br />
-          Com experiência em desenvolvimento Fullstack pelo "Bootcamp React & Node" da <strong> SoulCode</strong>, onde Participei de projetos práticos e pude aplicar conceitos práticos da vivência de frontend e backend.
+          Desenvolvedora Full stack. <br />
+          Com experiência em desenvolvimento pelo "Bootcamp Full stack React & Node" da <strong> SoulCode</strong>, onde Participei de projetos práticos e pude aplicar conceitos práticos da vivência de frontend e backend.
         </p>
 
         {/* Skills */}
