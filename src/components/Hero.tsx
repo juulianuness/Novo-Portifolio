@@ -22,7 +22,7 @@ const Hero = () => {
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
           Desenvolvedora Full stack. <br />
-          Com experiência em desenvolvimento pelo "Bootcamp Full stack React & Node" da <strong> SoulCode</strong>, onde Participei de projetos práticos e pude aplicar conceitos práticos da vivência de frontend e backend.
+          Com experiência pela vivência do "Bootcamp Full stack React & Node" da <strong> SoulCode</strong>, onde Participei de projetos práticos e pude aplicar conceitos práticos de frontend e backend.
         </p>
 
         {/* Skills */}
