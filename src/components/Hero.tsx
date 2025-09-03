@@ -5,7 +5,7 @@ const Hero = () => {
   const skills = ["React", "TypeScript", "Tailwind CSS", "JavaScript", "CSS", "Node.js"];
 
   return (
-    <section className="  flex flex-col md:flex-row items-center justify-center gap-4 py-16">
+    <section className="  flex flex-col md:flex-row items-center justify-center gap-4 p-2 py-16">
       {/* Foto */}
       <div className="flex justify-center md:justify-center w-full md:w-1/2">
         <img
@@ -17,7 +17,7 @@ const Hero = () => {
 
       {/* Texto */}
       <div className="text-center md:text-left w-full md:w-1/2 ">
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+        <h1 className="text-4xl  md:text-5xl font-bold text-gray-800 mb-4">
           Olá, eu sou a <span className="text-blue-300">Julia Nunes</span>
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
@@ -26,7 +26,7 @@ const Hero = () => {
         </p>
 
         {/* Skills */}
-        <div className="flex flex-wrap gap-2 max-w-4xl md:justify-start justify-center">
+        <div className="flex flex-wrap gap-2 mb-5 max-w-4xl md:justify-start justify-center">
           {skills.map((skill, index) => (
             <span
               key={index}

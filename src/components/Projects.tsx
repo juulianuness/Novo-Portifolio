@@ -70,7 +70,7 @@ const Projects = () => {
         {projects.map((project, index) => (
           <div
             key={index}
-            className="bg-white rounded-2xl shadow-md hover:shadow-xl transition hover:scale-105 overflow-hidden"
+            className="bg-white rounded-2xl shadow-md p-1 hover:shadow-xl transition hover:scale-105 overflow-hidden"
           >
             {/* Imagem do projeto */}
             <img
@@ -78,7 +78,7 @@ const Projects = () => {
               alt={project.title}
               className="w-full h-48 object-cover p-3"
             />
-            <div className="p-6">
+            <div className="p-4 sm:p-6">
               <h3 className="text-xl font-semibold text-black-600 mb-2">
                 {project.title}
               </h3>
