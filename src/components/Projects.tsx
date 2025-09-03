@@ -22,9 +22,9 @@ const projects = [
     image: serieImg ,
   },
   {
-    title: "Landing Page",
+    title: "Apresentação Psi",
     description: "Este é um site institucional desenvolvido para a psicóloga Jaqueline Vieira, com o objetivo apresenta-la",
-    link: "https://imersao-mulheres-saudaveis.netlify.app/",
+    link: "https://psijaquelinevieira.netlify.app/",
     image:  terapiaImg ,
   },
   {
