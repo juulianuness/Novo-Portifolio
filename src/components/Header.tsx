@@ -80,6 +80,7 @@ const Header = () => {
           <a 
             href="#projects" 
             className="px-4 py-3 bg-gradient-to-r from-blue-300 to-gray-300 text-white font-semibold rounded-full shadow-md text-center transition hover:scale-105"
+            href="https://julianunes.netlify.app/"
             onClick={() => setIsMenuOpen(false)}
           >
             Currículo
