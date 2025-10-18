@@ -23,16 +23,16 @@ const Hero = () => {
         <p className="text-lg text-gray-600 max-w-lg mb-12">
           
     Sou <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>, formada pelo
-    <strong>Bootcamp Full Stack React &amp; Node da SoulCode Academy</strong>, onde participei de
-    projetos práticos que uniram <strong>frontend</strong> e <strong>backend</strong>, aplicando conceitos de
+    <strong>Bootcamp Full Stack </strong> React &amp; Node da SoulCode Academy, onde participei de
+    projetos práticos que uniram frontend e backend, aplicando conceitos de 
     <strong>React, Node.js, JavaScript, HTML, CSS, Tailwind</strong> e <strong>Git</strong>.
   <br />
     Recentemente, ampliei meus conhecimentos com cursos voltados à <strong>Qualidade de Software (QA)</strong>,
-    aprendendo sobre <strong>testes manuais e automatizados</strong>, <strong>boas práticas de versionamento</strong>
-    e <strong>metodologias ágeis</strong>.
+    aprendendo sobre testes manuais e automatizados, boas práticas de versionamento
+    e <metodologias ágeis.
 <br />
     Essa combinação entre <strong>desenvolvimento</strong> e <strong>garantia de qualidade</strong> me permite compreender
-    o <strong>ciclo completo das aplicações</strong>, do código à entrega, com foco em <strong>usabilidade, desempenho e confiabilidade</strong>.
+    o ciclo completo das aplicações, do código à entrega, com foco em usabilidade, desempenho e confiabilidade.
   </p>
 
         {/* Skills */}
