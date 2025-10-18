@@ -20,20 +20,22 @@ const Hero = () => {
         <h1 className="text-4xl  md:text-5xl font-bold text-gray-800 mb-4">
           Olá, eu sou a <span className="text-blue-300">Julia Nunes</span>
         </h1>
-        <p className="text-lg text-gray-600 max-w-lg mb-12">
+        
           
-    Sou <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>, formada pelo
-    <strong>Bootcamp Full Stack </strong> React &amp; Node da SoulCode Academy, onde participei de
-    projetos práticos que uniram frontend e backend, aplicando conceitos de 
-    <strong>React, Node.js, JavaScript, HTML, CSS, Tailwind</strong> e <strong>Git</strong>.
-  <br />
-    Recentemente, ampliei meus conhecimentos com cursos voltados à <strong>Qualidade de Software (QA)</strong>,
-    aprendendo sobre testes manuais e automatizados, boas práticas de versionamento
-    e <metodologias ágeis.
-<br />
-    Essa combinação entre <strong>desenvolvimento</strong> e <strong>garantia de qualidade</strong> me permite compreender
-    o ciclo completo das aplicações, do código à entrega, com foco em usabilidade, desempenho e confiabilidade.
-  </p>
+          <p className="text-lg text-gray-600 max-w-lg mb-12">
+          Sou <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>, formada pelo
+          Bootcamp Full Stack React &amp; Node da SoulCode Academy, onde participei de
+          projetos práticos que uniram <strong>frontend</strong> e <strong>backend</strong>, aplicando conceitos de 
+          React, Node.js, JavaScript, HTML, CSS, Tailwind e Git.
+          <br /><br />
+          Recentemente, ampliei meus conhecimentos com cursos voltados à <strong>Qualidade de Software (QA)</strong>,
+          aprendendo sobre testes manuais e automatizados, boas práticas de versionamento
+          e metodologias ágeis.
+          <br /><br />
+          Essa combinação entre <strong>desenvolvimento</strong> e <strong>garantia de qualidade</strong> me permite compreender
+          o ciclo completo das aplicações, do código à entrega, com foco em usabilidade, desempenho e confiabilidade.
+        </p>
+        
 
         {/* Skills */}
         <div className="flex flex-wrap gap-2 mb-5 max-w-4xl md:justify-start justify-center">
