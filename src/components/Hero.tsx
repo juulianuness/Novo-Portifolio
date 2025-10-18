@@ -21,9 +21,23 @@ const Hero = () => {
           Olá, eu sou a <span className="text-blue-300">Julia Nunes</span>
         </h1>
         <p className="text-lg text-gray-600 max-w-lg mb-12">
-          Desenvolvedora Full stack. <br />
-          Formada pelo Bootcamp React & Node da <strong> SoulCode</strong>, onde Participei de projetos práticos e pude aplicar conceitos práticos de frontend e backend.
-        </p>
+          
+    Sou <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>, formada pelo
+    <strong>Bootcamp Full Stack React &amp; Node da SoulCode Academy</strong>, onde participei de
+    projetos práticos que uniram <strong>frontend</strong> e <strong>backend</strong>, aplicando conceitos de
+    <strong>React, Node.js, JavaScript, HTML, CSS, Tailwind</strong> e <strong>Git</strong>.
+  </p>
+
+  <p>
+    Recentemente, ampliei meus conhecimentos com cursos voltados à <strong>Qualidade de Software (QA)</strong>,
+    aprendendo sobre <strong>testes manuais e automatizados</strong>, <strong>boas práticas de versionamento</strong>
+    e <strong>metodologias ágeis</strong>.
+  </p>
+
+  <p>
+    Essa combinação entre <strong>desenvolvimento</strong> e <strong>garantia de qualidade</strong> me permite compreender
+    o <strong>ciclo completo das aplicações</strong>, do código à entrega, com foco em <strong>usabilidade, desempenho e confiabilidade</strong>.
+  </p>
 
         {/* Skills */}
         <div className="flex flex-wrap gap-2 mb-5 max-w-4xl md:justify-start justify-center">
