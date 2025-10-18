@@ -27,11 +27,11 @@ const Hero = () => {
           Bootcamp Full Stack React &amp; Node da SoulCode Academy, onde participei de
           projetos práticos que uniram <strong>frontend</strong> e <strong>backend</strong>, aplicando conceitos de 
           React, Node.js, JavaScript, HTML, CSS, Tailwind e Git.
-          <br /><br />
+          <br />
           Recentemente, ampliei meus conhecimentos com cursos voltados à <strong>Qualidade de Software (QA)</strong>,
           aprendendo sobre testes manuais e automatizados, boas práticas de versionamento
           e metodologias ágeis.
-          <br /><br />
+          <br />
           Essa combinação entre <strong>desenvolvimento</strong> e <strong>garantia de qualidade</strong> me permite compreender
           o ciclo completo das aplicações, do código à entrega, com foco em usabilidade, desempenho e confiabilidade.
         </p>
