@@ -28,7 +28,7 @@ const Hero = () => {
           projetos práticos que uniram <strong>frontend</strong> e <strong>backend</strong>, aplicando conceitos de 
           React, Node.js, JavaScript, HTML, CSS, Tailwind e Git.
           <br />
-          Recentemente, ampliei meus conhecimentos com cursos voltados à <strong>Qualidade de Software (QA)</strong>,
+          Atualmente tenho aprimorado meus conhecimentos voltados à <strong>Qualidade de Software (QA)</strong>,
           aprendendo sobre testes manuais e automatizados, boas práticas de versionamento
           e metodologias ágeis.
           <br />
